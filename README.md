@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is chutiya and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is chutiya and I'm from  ZILA DARBHAGA , from ....</h2>
 
 ###
 
