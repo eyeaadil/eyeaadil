@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=eyeaadil&icon=5&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
-👋 Hi, I’m @eyeaadil<br>🌱 I’m currently learning DSA<br>👀I’m looking to collaborate on Web Dev Projects<br>💬 Ask me about MERN<br>📫 How to reach me :madil9227583@gmail.com<br>😄BTW, I use Linux<br><br>
+👋 Hi, I’m Md Adil<br>🌱 I’m currently learning DSA<br>👀I’m looking to collaborate on Web Dev Projects<br>💬 Ask me about MERN<br>📫 How to reach me :madil9227583@gmail.com<br>😄BTW, I use Linux<br><br>
 
 
 ## 🌐 Socials:
