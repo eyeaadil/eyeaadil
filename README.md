@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/eyeaadil/badge-it)](https://badges.pufler.dev)
+[![Profile Visits Badge](https://badges.pufler.dev/visits/eyeaadil/badge-it)](https://badges.pufler.dev)
 
 
 # 💫 About Me:
