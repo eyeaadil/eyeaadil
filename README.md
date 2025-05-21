@@ -1,6 +1,5 @@
 [![Profile Visits Badge](https://badges.pufler.dev/visits/eyeaadil/badge-it)](https://badges.pufler.dev)
-
-[![Contributors Display](https://badges.pufler.dev/contributors/eyeaadil/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/eyeaadil)](https://badges.pufler.dev)
 # 💫 About Me:
 👋 Hi, I’m Md Adil<br>🌱 I’m currently learning DSA<br>👀I’m looking to collaborate on Web Dev Projects<br>💬 Ask me about MERN<br>📫 How to reach me :madil9227583@gmail.com<br>😄BTW, I use Linux<br><br>
 
