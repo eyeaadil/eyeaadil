@@ -1,23 +1,174 @@
-[![Profile Visits Badge](https://badges.pufler.dev/visits/eyeaadil/badge-it)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/eyeaadil)](https://badges.pufler.dev)
-# 💫 About Me:
-👋 Hi, I’m Md Adil<br>🌱 I’m currently learning DSA<br>👀I’m looking to collaborate on Web Dev Projects<br>💬 Ask me about MERN<br>📫 How to reach me :madil9227583@gmail.com<br>😄BTW, I use Linux<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=eyeaadil)
 
+# Md Adil
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eyeaadil/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-adil-b4674924b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Eyeaadil) 
+#### Integrated B.Tech–M.Tech Student @ IIIT Gwalior · AI/ML Researcher · Full Stack Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eyeaadil&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eyeaadil&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyeaadil&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eyeaadil&limit=5&theme=default&combine_all_yearly_contributions=true)
+[📧 madil9227583@gmail.com](mailto:madil9227583@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/md-adil-b4674924b/)  ·  [X](https://x.com/Eyeaadil)
 
 ---
 
+I work at the intersection of **Artificial Intelligence, Machine Learning, intelligent communication systems, and full-stack software development**. My research focuses on learning-driven wireless systems, semantic communication, edge intelligence, and computer vision, while my development experience spans modern React applications, backend APIs, databases, authentication, and deployment.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Research Experience
+
+> 🔬 **Predictive Digital Twin for Multi-UAV Mobile Edge Computing**
+> Developing a predictive framework for proactive decision-making and resource management in UAV-assisted MEC environments.
+
+* **Traffic & Mobility Forecasting** — BiLSTM-based prediction of workload and mobility patterns
+* **Predictive Scheduling** — proactive task offloading and computation scheduling
+* **Service Management** — proactive caching and service migration across UAV edge servers
+* **Adaptive Resource Allocation** — dynamic CPU and computational resource management
+* **Digital Twin Intelligence** — predictive modelling of dynamic edge environments
+
+---
+
+## Research Projects
+
+### 📡 Intelligent Wireless Systems
+
+* **Hybrid ML-Driven Spectrum Sensing & Access** — Cyclostationary sensing · machine learning · NOMA spectrum access · throughput optimization · published in **IEEE Wireless Communications Letters**
+
+### 🧠 Semantic Communication
+
+* **Task-Adaptive Semantic Communication** — Attention-based reasoning · task-aware representations · multi-task inference · semantic transmission · *under review*
+
+### 🚁 Edge AI & Digital Twin
+
+* **Predictive Digital Twin for UAV-MEC** — BiLSTM forecasting · proactive caching · service migration · task scheduling · adaptive CPU allocation
+
+### 👁️ Computer Vision & Medical AI
+
+* Exploring deep learning for **medical image analysis, image segmentation, representation learning, and intelligent diagnostic systems**
+
+---
+
+## Software Development
+
+### ⚛️ Frontend Engineering
+
+* Build responsive and interactive applications using **React, Next.js, JavaScript, Tailwind CSS, Material UI, Chakra UI, Ant Design, Bootstrap, and DaisyUI**
+* Work with **Redux** for global state management and **React Query** for asynchronous server-state handling
+* Use **React Router** for client-side routing and **Vite** for modern frontend development workflows
+
+### ⚙️ Backend & APIs
+
+* Build backend services using **Node.js and Express.js**
+* Design and integrate **REST APIs**
+* Implement authentication and authorization using **JWT**
+* Work with middleware-based backend architectures and API testing using **Postman**
+
+### 🗄️ Databases & Cloud Services
+
+* Work with **MongoDB** for document-oriented applications and **MySQL** for relational data
+* Use **Firebase** for application backend services and rapid development
+* Integrate frontend applications with databases and backend APIs to build complete full-stack systems
+
+### 🚀 Deployment & Development Workflow
+
+* Deploy web applications using **Vercel and Netlify**
+* Comfortable working in **Linux-based development environments**
+* Use **Git** for version control and collaborative development
+* Work with **NPM, Nodemon, and modern JavaScript tooling** throughout the development lifecycle
+
+---
+
+## Development Stack
+
+### 🌐 MERN & Modern Web
+
+`MongoDB` · `Express.js` · `React.js` · `Node.js` · `Next.js`
+
+### 🎨 Frontend
+
+`React` · `Next.js` · `Redux` · `React Query` · `React Router` · `Tailwind CSS` · `Material UI` · `Chakra UI` · `Ant Design` · `Bootstrap` · `DaisyUI` · `Vite`
+
+### ⚙️ Backend
+
+`Node.js` · `Express.js` · `REST APIs` · `JWT` · `NPM` · `Nodemon`
+
+### 🗄️ Data & Services
+
+`MongoDB` · `MySQL` · `Firebase`
+
+### ☁️ Tools & Deployment
+
+`Git` · `Linux` · `Postman` · `Vercel` · `Netlify` · `Notion`
+
+---
+
+## Publication
+
+* **Hybrid Cyclostationary and Machine Learning-Driven Spectrum Access in Downlink NOMA: Detection and Throughput Optimization**
+  *IEEE Wireless Communications Letters · 2026*
+  ML-driven spectrum sensing and intelligent spectrum access for downlink NOMA systems
+  [`read paper`](https://ieeexplore.ieee.org/document/11373298)
+
+---
+
+## Research Manuscript
+
+* **Task-Adaptive Semantic Communication for Multi-Task Inference Using Attention-Based Reasoning**
+  Attention-based reasoning · semantic communication · task-adaptive learning · multi-task inference
+  *Under Review*
+
+---
+
+## Teaching Experience
+
+* 🔵 **Teaching Assistant — Computer Organization & Architecture**
+  Under **Dr. Ankur Jaiswal** · ABV-IIITM Gwalior
+
+* 🟣 **Teaching Assistant — Data Communication**
+  Under **Dr. Mahendra Shukla** · ABV-IIITM Gwalior
+
+---
+
+## Education
+
+* 🎓 **Integrated B.Tech–M.Tech in Information Technology** — ABV-IIITM Gwalior
+  *Expected Graduation · June 2027*
+
+---
+
+## Research Interests
+
+**Artificial Intelligence** · **Machine Learning** · **Deep Learning** · **Computer Vision** · **Medical Image Analysis** · **Semantic Communication** · **Edge AI** · **Mobile Edge Computing** · **Intelligent Wireless Systems** · **Digital Twin** · **Federated Learning** · **Reinforcement Learning**
+
+---
+
+## Skills
+
+| **Languages**                  | **AI / ML**                          | **Web Development**                 | **Core & Tools**             |
+| ------------------------------ | ------------------------------------ | ----------------------------------- | ---------------------------- |
+| Python, C, C++, Go, JavaScript | PyTorch, Scikit-learn, NumPy, Pandas | React, Next.js, Node.js, Express.js | Git, Linux, Postman, LaTeX   |
+|                                | ANN, CNN, LSTM, BiLSTM, RL           | MongoDB, MySQL, Firebase            | DSA, OS, DBMS, CN            |
+|                                | Computer Vision, Deep Learning       | Redux, React Query, Tailwind CSS    | Simulation, Research Writing |
+|                                | Machine Learning                     | REST APIs, JWT, Vercel, Netlify     | Mathematical Modelling       |
+
+---
+
+## Highlights
+
+* 📄 Research published in **IEEE Wireless Communications Letters**
+* 🔬 Working across **AI/ML, Semantic Communication, Wireless Systems, and Edge Computing**
+* 🚁 Developing a **Predictive Digital Twin framework for UAV-assisted MEC**
+* 🌐 Experience building **full-stack applications using the MERN ecosystem and modern React tooling**
+* 👨‍🏫 Teaching Assistant for **Computer Organization & Architecture**
+* 👨‍🏫 Teaching Assistant for **Data Communication**
+* 🎯 **GATE Qualified**
+
+---
+
+## Open to Collaboration
+
+Interested in research and development collaborations involving **AI/ML, Computer Vision, Semantic Communication, Edge Computing, Intelligent Wireless Systems, and Full Stack Development**.
